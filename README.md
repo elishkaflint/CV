@@ -20,7 +20,7 @@
 
 ## Skills
 
-### Team Player
+#### Team Player
 
 I am fascinated by team dynamics and love helping to cultivate an environment where people can do their best work. I give 100% to teams that I'm part of and care about both process and delivery. I'm a strong communicator and work openly - always keen to share feedback and improve things during a project.
 
@@ -28,21 +28,21 @@ I am fascinated by team dynamics and love helping to cultivate an environment wh
 * Take a look at a [blogpost](https://medium.com/@elishkaf/finding-your-flow-when-working-in-a-dev-team-cb09adbcbae5) I wrote about how to find your flow as a team during group work
 
 
-### Strong Independent Learner
+#### Strong Independent Learner
 
 I'm a self-starter, strongly motivated by learning new skills and technologies, and do not hesitate to take on new challenges for the learning opportunity they present.
 
 * Visit a [Game of Life](https://game-of-life-elishka.herokuapp.com/) webpage which I built in 2 days in order to learn React
 * Check out a [workshop](https://hackmd.io/qOg5TGiMROiOmUIXY7S0rQ) I delivered voluntarily to share my git learnings with my cohort at Makers
 
-### Clean Coder
+#### Clean Coder
 
 I take pride in the quality of my code, striving to ensure that it is well-tested, flexible, readable, DRY and adheres to the Single Responsibility Principle.
 
 That said, I'm still learning, so I love getting feedback on my work and making it even better for the next time.
 
 
-### Analytical Problem-Solver
+#### Analytical Problem-Solver
 
 I've got a lot of experience working in high-pressure, dynamic environments to solve complex problems - such as helping BT's Board work out how to reduce cost on some of their biggest government contracts.
 
@@ -51,15 +51,15 @@ I understand how to break problems down into small chunks and take a structured 
 
 ## Education
 
-### Makers Academy (May 2018 to Sep 2018)
+#### Makers Academy (May 2018 to Sep 2018)
 
 16-week intensive course to learn the fundamentals of programming (OOP, TDD, Agile methodologies, pairing) alongside a daily EQ curriculum
 
-### Chartered Institute of Management Accounting (Sep 2010 to Jul 2015)
+#### Chartered Institute of Management Accounting (Sep 2010 to Jul 2015)
 
 Qualified Management Accountant
 
-### University College London (Sep 2006 to Aug 2010)
+#### University College London (Sep 2006 to Aug 2010)
 
 French and Czech with Slovak
 - 1st Class Honours (with distinction in spoken French)
