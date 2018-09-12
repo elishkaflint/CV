@@ -4,7 +4,7 @@
 ### [Github](https://github.com/elishkaflint) | [LinkedIn](https://www.linkedin.com/in/elishkaflint/) | [Twitter](https://twitter.com/elishka_f) | [Medium](https://medium.com/@elishkaf)
 #### Get in touch: elishkaf@gmail.com
 
-**After 7 years working in technology finance and consulting (at O2 and BT), followed by a bit of time out to think about my next career move, I started learning to code in my spare time and haven't stopped since.**
+**With 7 years experience in finance and consulting in the tech sector (at O2 and BT), I started learning to code in my spare time and haven't stopped since.**
 
 **I’ve just learnt tons of great new skills on an intensive 16-week coding course with [Makers Academy](https://www.makersacademy.com/curriculum/) and am itching to establish myself in a world that prizes creativity, problem-solving, structured thinking and teamwork as highly as I do.**
 
@@ -19,6 +19,16 @@
 | 2 days        | [**Chitter**](https://github.com/elishkaflint/chitter-challenge)                | To build a full stack application and understand how databases work | *Ruby, Sinatra, PostgreSQL, Rake, RackUp, HTML, CSS* |
 
 ## Skills
+
+#### Analytical Problem-Solver
+
+I have a lot of experience working in high-pressure, dynamic environments to solve complex problems. As a Consultant at BT, I led 3-6 month transformation projects to provide analysis and implement recommendations for BT’s Senior Management, for example:
+
+* Reviewed BT’s direct marketing spend and processes by interviewing campaign managers and analysing campaign and customer datasets; identified and delivered a £3.6m cost-saving through a suite of new tools to shift sales mix from direct mail to email
+* Investigated drivers of BT’s high customer call volumes due to billing queries; scoped and coordinated and programme of improvement initiatives with weekly updates to the BT Consumer Board, delivering a 12% reduction in weekly call volumes
+* Led workshops to uncover the key issues within BT’s 10 largest and most complex corporate contracts; worked closely with operational owners and legal teams to report on improvement areas and build a plan for management
+
+I understand how to break problems down into small chunks and take a structured approach to solving them. This skill has transferred nicely into programming, where I am able to find get to grips with new technologies and debug code quickly and efficiently.
 
 #### Team Player
 
@@ -40,14 +50,6 @@ I'm a self-starter, strongly motivated by learning new skills and technologies, 
 I take pride in the quality of my code, striving to ensure that it is well-tested, flexible, readable, DRY and adheres to the Single Responsibility Principle.
 
 That said, I'm still learning, so I love getting feedback on my work and making it even better for the next time.
-
-
-#### Analytical Problem-Solver
-
-I've got a lot of experience working in high-pressure, dynamic environments to solve complex problems - such as helping BT's Board work out how to reduce cost on some of their biggest government contracts.
-
-I understand how to break problems down into small chunks and take a structured approach to solving them. This skill has transferred nicely into programming, where I am able to find solutions and debug code quickly and efficiently.
-
 
 ## Education
 
