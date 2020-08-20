@@ -1,4 +1,4 @@
-# Hello, I'm Elishka
+# Hello, I'm Elishka.
 
 https://elishka.io        
 
