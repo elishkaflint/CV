@@ -1,89 +1,121 @@
-# Elishka Flint
+# Hello, I'm Elishka
 
+https://elishka.io        
 
-### [Github](https://github.com/elishkaflint) | [LinkedIn](https://www.linkedin.com/in/elishkaflint/) | [Twitter](https://twitter.com/elishka_f) | [Medium](https://medium.com/@elishkaf)
-#### Get in touch: elishkaf@gmail.com
+[email](mailto:elishkaf@gmail.com) | [linkedIn](https://www.linkedin.com/in/elishkaflint/) | [twitter](https://twitter.com/elishka_f)
 
-**With 7 years experience in finance and consulting in the tech sector (at O2 and BT), I started learning to code in my spare time and haven't stopped since.**
+>I'm a software engineer with 2 years' experience working within a high-functioning agile team on a large-scale public sector web application built on a microservices architecture. 
+>I currently specialise in Java and devops-related technologies such as Nginx, Docker, Kubernetes and Jenkins, but am also proficient in Ruby and Javascript (and working with associated frameworks such as Rails and React). 
+>As Learning & Development Lead for the Engineering Guild at Deloitte Digital, I'm passionate about engineer growth and well-being, with a focus on self-led learning. 
 
-**I’ve just learnt tons of great new skills on an intensive 16-week coding course with [Makers Academy](https://www.makersacademy.com/curriculum/) and am itching to establish myself in a world that prizes creativity, problem-solving, structured thinking and teamwork as highly as I do.**
+---
 
-## Projects
+## 🔹 Professional experience
 
-| How Long?        | What?                       | Why?                                                         | How?         |
-| ------------|--------------------------- | ----------------------------------------------------------- | ----------- |
-| 2 weeks       | [**Hip Hip Array**](https://github.com/bibicollins/array_of_sunshine)           | Makers Academy final project to create an educational tool for early coders, using 3 programming languages   | *Javascript, Ruby, Python, React, Node Express, Jest, Enzyme, TravisCI, Heroku* |
-| 2 days       | [**The Game of Life**](https://github.com/elishkaflint/game-of-life)           | To deepen my understanding of Javascript and learn React    | *Javascript, React, CSS* |
-| 2 weeks   | [**Acebook**](https://github.com/jeff1108/acebook-rails-keeping-it-rails)                | To learn how to develop in a team using Agile methodologies               | *Ruby on Rails, TravisCI, Heroku, RSpec, Capybara, Code Climate, HTML, CSS* |
-| 3 days        | [**Thermostat**](https://github.com/elishkaflint/my-thermostat)             | To introduce myself to front end development                              | *Javascript, JQuery, CSS, OpenWeather API* |
-| 2 days        | [**Chitter**](https://github.com/elishkaflint/chitter-challenge)                | To build a full stack application and understand how databases work | *Ruby, Sinatra, PostgreSQL, Rake, RackUp, HTML, CSS* |
+### Software Engineer
 
-## Skills
+***Deloitte Digital**, October 2018 to now*
 
-#### Analytical Problem-Solver
+Part of a high-functioning agile team delivering a large-scale web application in the public sector (~3m users to date). Day-to-day tasks include implementing clean solutions, performing value-add code reviews, technical analysis of business requirements, mentoring junior colleagues.
 
-I have a lot of experience working in high-pressure, dynamic environments to solve complex problems. As a Consultant at BT, I led 3-6 month transformation projects to provide analysis and implement recommendations for BT’s Senior Management, for example:
+Additional achievements: 
 
-* Reviewed BT’s direct marketing spend and processes by interviewing campaign managers and analysing campaign and customer datasets; identified and delivered a £3.6m cost-saving through a suite of new tools to shift sales mix from direct mail to email
-* Investigated drivers of BT’s high customer call volumes due to billing queries; scoped and coordinated and programme of improvement initiatives with weekly updates to the BT Consumer Board, delivering a 12% reduction in weekly call volumes
-* Led workshops to uncover the key issues within BT’s 10 largest and most complex corporate contracts; worked closely with operational owners and legal teams to report on improvement areas and build a plan for management
+- Improved developer productivity by setting up Skaffold and Minikube for local development
+- Drove improvements into our microservice resilience by implementing a common retry mechanism across all services
+- Implemented an easily-deployable maintenance page E2E
+- Undertook 2 separate large-scale legacy code refactors
 
-I understand how to break problems down into small chunks and take a structured approach to solving them. This skill has transferred nicely into programming, where I am able to find get to grips with new technologies and debug code quickly and efficiently.
+As Learning & Development Lead for the Engineering Guild at Deloitte Digital, I also coordinate community learning events, help engineers source the right learning resources and have implemented a new set of learning pathways for the Engineering Guild. 
 
-#### Team Player
+>*Technologies: Java, Spring, Guice, Feign, Kafka, ELK, Docker, Kubernetes, Helm, Jenkins, Nginx, Javascript, Skaffold, Git, OpenIDC*
 
-I am fascinated by team dynamics and love helping to cultivate an environment where people can do their best work. I give 100% to teams that I'm part of and care about both process and delivery. I'm a strong communicator and work openly - always keen to share feedback and improve things during a project.
+### Strategy Consultant
 
-* See some testimonials from previous team members [here](https://hackmd.io/z1KhNw8FRCSD4RdoQK8g2w?view)
-* Take a look at a [blogpost](https://medium.com/@elishkaf/finding-your-flow-when-working-in-a-dev-team-cb09adbcbae5) I wrote about how to find your flow as a team during group work
+***BT LTD**, December 2015 to September 2017*
 
+Responsible for leading 3-6 month projects to analyse diverse business problems, provide recommendations to senior management and project manage solutions through to delivery.
 
-#### Strong Independent Learner
+### Finance Manager
 
-I'm a self-starter, strongly motivated by learning new skills and technologies, and do not hesitate to take on new challenges for the learning opportunity they present.
+***O2 LTD**, May 2013 to December 2015*
 
-* Visit a [Game of Life](https://game-of-life-elishka.herokuapp.com/) webpage which I built in 2 days in order to learn React
-* Check out a [workshop](https://hackmd.io/qOg5TGiMROiOmUIXY7S0rQ) I delivered voluntarily to share my git learnings with my cohort at Makers
+Responsible for all financial operations in O2’s digital products (Media, Big Data, Machine to Machine), including financial analysis, business cases, month end accounting statements and annual budgets.
 
-#### Clean Coder
+### Finance Graduate
 
-I take pride in the quality of my code, striving to ensure that it is well-tested, flexible, readable, DRY and adheres to the Single Responsibility Principle.
+***O2 LTD**, Sep 2010 to May 2013*
 
-That said, I'm still learning, so I love getting feedback on my work and making it even better for the next time.
+Europe-wide programme including a range of foundation roles across Finance (including an international assignment and secondment to Tesco Mobile), designed to accelerate development and support attainment of a professional accounting qualification.
 
-## Education
+---
 
-#### Makers Academy (May 2018 to Sep 2018)
+## 🔹 Projects
 
-16-week intensive course to learn the fundamentals of programming (OOP, TDD, Agile methodologies, pairing) alongside a daily EQ curriculum
+### Personal Site
 
-#### Chartered Institute of Management Accounting (Sep 2010 to Jul 2015)
+*https://elishka.io* 
 
-Qualified Management Accountant
+Featuring articles on adventure cycling and software engineering, for example:
 
-#### University College London (Sep 2006 to Aug 2010)
+- How I finally learned regex, using spaced repetition
+- Big Sur, big adventures
 
-French and Czech with Slovak
-- 1st Class Honours (with distinction in spoken French)
-- Dean’s List and 3 academic prizes including the Eva Grunwald Memorial Award
-- Editor of UCL’s student newspaper Pi Squared in 2007/2008
+>*Technologies: JAM Stack using Hugo, Netlify and Git*
 
-## Experience
+### Game of Life
 
-**Career Sabbatical (Sep 2017 to May 2018)**
+*https://game-of-life-elishka.herokuapp.com/*
 
-- Invested time in working out what I wanted from my next career move; this period included a solo bike trip across America (see Interests), part-time experience with the Brixon Bugle and working with a coffee start-up
+Visual representation of Conway's Game of Life
 
-**BT (Oct 2015 to Sep 2017) - Business Transformation Consultant**
+>*Technologies: Javascript, React*
 
-- Leading projects to solve some of the most complex issues facing BT's management team primarily focused on reducing cost / increasing efficiency; rated outstanding in each performance review
+### Loofah
 
-**O2 (Sep 2010 to Oct 2015) - Graduate / Finance Manager**
+*https://github.com/elishkaflint/loofah-graph-api*
 
-- Performed roles across the Finance function, latterly managing end-to-end Finance Operations for O2's New Business products (Big Data, Wifi, Internet of Things)
+Small side project to build a useful learning tool, worked on sporadically by a small team from Deloitte Digital
 
-## Interests
+>*Technologies: Java, React, Docker, GraphQL, MongoDB*
 
-**Cycling** - I’m happiest when on my bicycle and in Autumn 2017 I set out on [a solo and self-supported cycling tour from Vancouver to Mexico](https://tinyletter.com/Elishka/archive), successfully navigating 2,347 miles along the Pacific Ocean
+---
 
-**Writing** - I enjoy reading and writing; I occasionally blog about cycling and coding on [Medium](https://medium.com/@elishkaf).
+## 🔹 Achievements
+
+### Won the Natwest **Woman Founders Hackathon**
+
+*October 2018* 
+
+Built and demo-ed a winning product called "The Techdel Test" – inspired by the Bechdel Test – which rated films according to the extent to which they depicted women performing STEM jobs
+
+>*Technologies: Ruby on Rails, React*
+
+### Cycled solo and self-supported from Vancouver to San Diego
+
+*September 2017 - November 2017*
+
+Cycled 2,347mi down the Pacific Coast of North America in 2 months
+
+---
+
+## 🔹 Education
+
+### Software Engineering Bootcamp
+
+***Makers Academy,*** *2018*
+
+16-week intensive course to learn programming fundamentals (OOP, TDD, Agile methodologies, pairing) alongside a daily EQ curriculum
+
+>*Technologies: Ruby, Ruby on Rails, Sinatra, Javascript, React, PostgreSQL*
+
+### **BA French & Czech (with Slovak)**
+
+***University College London,*** *2006 - 2010*
+
+- First class honours with distinction in spoken French
+- Included on the UCL Dean’s List 2010 for academic excellence
+- Awarded the Eva Grunwald Prize for French & 2 SSEES Sessional Prizes for Czech
+
+---
+
+(last updated August 2020)
