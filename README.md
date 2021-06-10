@@ -4,30 +4,37 @@ https://elishka.io
 
 [email](mailto:elishkaf@gmail.com) | [linkedIn](https://www.linkedin.com/in/elishkaflint/) | [twitter](https://twitter.com/elishka_f)
 
->I'm a software engineer with 2 years' experience working within a high-functioning agile team on a large-scale public sector web application built on a microservices architecture. 
->I currently specialise in Java and devops-related technologies such as Nginx, Docker, Kubernetes and Jenkins, but am also proficient in Ruby and Javascript (and working with associated frameworks such as Rails and React). 
->As Learning & Development Lead for the Engineering Guild at Deloitte Digital, I'm passionate about engineer growth and well-being, with a focus on self-led learning. 
+I'm a Senior Software Engineer with 2+ years experience working in agile teams on large-scale microservice-based architectures, primarily in the public sector.
+
+To date, I've worked professionally with Java, Node, Spring, RabbitMQ, Kafka, Docker, Kubernetes, Jenkins, Apache, Nginx, GraphQL, Puppeteer, Jest, JUnit etc.
+
+I have strong engineering foundations that enable me to design clean, well-tested software and am able to get up to speed with new technologies and domains quickly.
+
+As a Learning & Development Lead in the Engineering Guild at Deloitte Digital, I'm passionate about helping people grow as engineers and mentoring junior colleagues, with a particular focus on self-led learning for engineers.
+
+Prior to becoming a software engineer, I worked in Finance and Strategy in the telecoms sector for 7 years, and bring real-world business and organisational understanding to my work.
 
 ---
 
 ## 🔹 Professional experience
 
-### Software Engineer
+### Senior Software Engineer
 
-***Deloitte Digital**, October 2018 to now*
+***Deloitte Digital**, October 2018 to now (promoted to Senior in August 2020)*
 
 Part of a high-functioning agile team delivering a large-scale web application in the public sector (~3m users to date). Day-to-day tasks include implementing clean solutions, performing value-add code reviews, technical analysis of business requirements, mentoring junior colleagues.
 
-Additional achievements: 
-
+Key achievements: 
+- Responsible for a team of 3 junior/mid level developers
+- Led a high profile integration with our third-party payment provider
 - Improved developer productivity by setting up Skaffold and Minikube for local development
 - Drove improvements into our microservice resilience by implementing a common retry mechanism across all services
-- Implemented an easily-deployable maintenance page E2E
+- Implemented a maintenance page for our site
 - Undertook 2 separate large-scale legacy code refactors
 
-As Learning & Development Lead for the Engineering Guild at Deloitte Digital, I also coordinate community learning events, help engineers source the right learning resources and have implemented a new set of learning pathways for the Engineering Guild. 
+As Learning & Development Lead for the Engineering Guild at Deloitte Digital, I also coordinate community learning events, help engineers source the right learning resources and have implemented a new set of learning pathways for the Engineering Guild. This year I helped launch the Engineering Leadership Programme, a 12-month training course for Technical Leads, delivered in partnership with Makers Academy. 
 
->*Technologies: Java, Spring, Guice, Feign, Kafka, ELK, Docker, Kubernetes, Helm, Jenkins, Nginx, Javascript, Skaffold, Git, OpenIDC*
+>*Technologies: Java, Spring, Javascript, Node, Kafka, ELK, Docker, Kubernetes, Helm, Jenkins, Nginx, Apache, Skaffold, Git*
 
 ### Strategy Consultant
 
